@@ -12,6 +12,7 @@ The Counter App is a beginner-friendly project designed to help you understand f
 # Technologies Used 
 - HTML
 - CSS
+- js
 
 ## Features
 
