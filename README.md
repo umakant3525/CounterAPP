@@ -7,7 +7,7 @@ A simple counter application to learn JavaScript basics by allowing users to inc
 The Counter App is a beginner-friendly project designed to help you understand fundamental JavaScript concepts such as variables, event handling, and DOM manipulation while having fun with a practical application.
 
 ## Demo 
-[Link to Live Demo](https://umakant3525.github.io/modern_chair_web/) 
+[Link to Live Demo](https://umakant3525.github.io/CounterAPP/) 
 
 # Technologies Used 
 - HTML
